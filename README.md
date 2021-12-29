@@ -1,2 +1,2 @@
-# doc
-BlockHitch Documentations
+# BlockHitch Documentations
+Documentations for BlockHitch
